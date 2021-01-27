@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Liam's Website
 
 You can use the [editor on GitHub](https://github.com/palmerlj/palmerlj.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
