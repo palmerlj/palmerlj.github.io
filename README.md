@@ -1,15 +1,10 @@
 ## Welcome to Liam's Website
 
-You can use the [editor on GitHub](https://github.com/palmerlj/palmerlj.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Liam's Coding adventures
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Last Time Coding
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+An Eigth Grade Computer Class
 
 # Header 1
 ## Header 2
