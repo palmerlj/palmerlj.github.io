@@ -24,7 +24,7 @@ examples
 
 **Bold** and _Italic_ and `Code` text
 
-![picofme.png](src)
+![image](picofme.png)
 ```
 
 
