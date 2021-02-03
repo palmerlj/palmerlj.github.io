@@ -6,16 +6,16 @@ Welcome to Liam's Coding adventures
 
 An Eigth Grade Computer Class
 
-# Header 1
+# Projects
 
-test 1
-## Header 2
+Array of Coding Projects by Liam
+## Project name
 
-test 2
+ex 1
 
-### Header 3
+### Project name
 
-test 3
+ex 2
 
 
 **Bold** and _Italic_ and `Code` text
