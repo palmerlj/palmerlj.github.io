@@ -9,9 +9,10 @@ An Eigth Grade Computer Class
 # Projects
 
 Array of Coding Projects by Liam
-## Project name
+## Plan
 
-ex 1
+coding language tutorials 
+make simple games like pong
 
 ### Project name
 
