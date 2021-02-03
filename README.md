@@ -24,7 +24,6 @@ examples
 
 **Bold** and _Italic_ and `Code` text
 
-![image](picofme.png)
-
+![image](https://user-images.githubusercontent.com/77748560/106822804-c9dab280-664d-11eb-8a26-9462050ecef9.png)
 
 
